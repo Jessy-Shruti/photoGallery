@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    position: absolute;
+    z-index: 10;
+    top: 10px;
+    right: 500px;
+    cursor: pointer;
+}
+
+.links {
+    float: left;
+    color: #000000;
+    padding-top: 0px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: monospace;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+h3{
+    font-size: 20px;
+    color: white;
+}
+
+h4{
+    font-size: 20px;
+    color: white;
+}
+
+h5{
+    font-size: 20px;
+    color: white;
+}
+
+h6{
+    font-size: 20px;
+    color: white;
+}
+
